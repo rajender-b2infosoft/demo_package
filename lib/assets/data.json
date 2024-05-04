@@ -1,0 +1,46 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Location Data",
+      "name": "Personal Information Collection",
+      "value": false,
+      "description": "The collection and the use of location data used for navigation purpose"
+    },
+    {
+      "id": 2,
+      "title": "Measurement",
+      "name": "Location Data Processing",
+      "value": false,
+      "description": "The srorage of information or access to information that is already stored,on user device such as accessing advertising identifers and/or other identifiers and/or using cookies or other similar technology"
+    },
+    {
+      "id": 3,
+      "title": "Content Delivery",
+      "name": "Analytics and Usage Data",
+      "value": false,
+      "description": "The collection of information about the user of a site to subsequently personalize advertising for them or other contents. i.e., on ohter site or apps. Typically the content or the site or the app"
+    },
+    {
+      "id": 4,
+      "title": "Location Data1",
+      "name": "Advertising",
+      "value": false,
+      "description": "This category includes the display of targeted advertisements based on user data."
+    },
+    {
+      "id": 5,
+      "title": "Content Delivery1",
+      "name": "Third-Party Data Sharing",
+      "value": false,
+      "description": "The collection of information about the user of a site to subsequently personalize advertising for them or other contents. i.e., on ohter site or apps. Typically the content or the site or the app"
+    },
+    {
+      "id": 6,
+      "title": "Measurement1",
+      "name": "Personalization",
+      "value": false,
+      "description": "The collection of information about the user of a site to subsequently personalize advertising for them or other contents. i.e., on ohter site or apps. Typically the content or the site or the app"
+    }
+  ]
+}
